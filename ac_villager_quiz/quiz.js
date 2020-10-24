@@ -5,7 +5,7 @@ let container = document.getElementById('container')
 let result = document.getElementById('result')
 
 //the api url
-url= `http://acnhapi.com/v1/villagers` //${randomVillagerNumber}
+url= `https://acnhapi.com/v1/villagers` //${randomVillagerNumber}
 
 //keep track of users score
 let score
